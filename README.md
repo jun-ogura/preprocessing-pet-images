@@ -10,7 +10,7 @@ nibabelとnilearnのうち、PET/CT画像の処理に役立つメソッドをユ
 ここではPETデータ解析を完全無料で行うことを目的とし、核医学研究への貢献を目指します。
 
 ソースコードはjupyter notebook形式で公開しており、google colaboratoryのリンクも付けてあります。<br>
-公開ファイルは現在、以下の2つとなっております（GitHub Pageからこのサイトに訪問された方は右上にある " Veiw GitHub "のリンクからアクセスください）。
+公開ファイルは現在、以下の2つとなっております（GitHub Pageからこのサイトに訪問された方は右上にある "Veiw on GitHub"ボタンのリンクからアクセスください）。
 
 1. animal_PET_img_processing.ipynb
 2. animal_PET_img_other_functions.ipynb
