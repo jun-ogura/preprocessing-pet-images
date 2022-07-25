@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 
 plugins:
   - jekyll-sitemap
+
+google_analytics: G-X52RSBMZ8E
